@@ -2,8 +2,8 @@ import fresh_tomatoes
 import media
 
 # This file is an arbritrarily long list of movie objecs to be displayed.
-# Each movie is initiated with a title, tag line, a url link to the
-# movie poster, and a url like to the movie trailer.
+# Each movie is initialized with a title, a tag line, a url link to the
+# movie poster, and a url link to the movie trailer.
 
 forrest = media.Movie(
     "Forrest Gump",
